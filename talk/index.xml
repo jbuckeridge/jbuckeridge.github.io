@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited Talks | John Buckeridge</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invited Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{currentYear} by John Buckeridge</copyright><lastBuildDate>Tue, 14 May 2019 10:00:59 +1000</lastBuildDate>
+    <image>
+      <url>/img/logo-scattering1.png</url>
+      <title>Invited Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Millenial challenges in computational materials science</title>
+      <link>/talk/quantum-computing/</link>
+      <pubDate>Tue, 14 May 2019 10:00:59 +1000</pubDate>
+      <guid>/talk/quantum-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling electrons bound at defect sites in wide gap semiconductors</title>
+      <link>/talk/tyc-imperial/</link>
+      <pubDate>Mon, 08 Oct 2018 14:00:59 +1000</pubDate>
+      <guid>/talk/tyc-imperial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The competition between compact and diffuse states in wide gap semiconductors</title>
+      <link>/talk/sfsb-conference/</link>
+      <pubDate>Fri, 31 Aug 2018 11:00:59 +1000</pubDate>
+      <guid>/talk/sfsb-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The defect physics of GaN: how the competition between compact and shallow states determines luminescence properties</title>
+      <link>/talk/icps-montpellier/</link>
+      <pubDate>Fri, 03 Aug 2018 09:00:59 +1000</pubDate>
+      <guid>/talk/icps-montpellier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational design of new thermoelectric materials</title>
+      <link>/talk/thermoelectric-india/</link>
+      <pubDate>Tue, 09 Jan 2018 12:00:59 +1000</pubDate>
+      <guid>/talk/thermoelectric-india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling point defects in wide-gap semiconductors: elucidating the balance between ionic and electronic disorder</title>
+      <link>/talk/tyndall-2016/</link>
+      <pubDate>Thu, 04 Aug 2016 09:30:59 +1000</pubDate>
+      <guid>/talk/tyndall-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical study of local defect structures in dilute nitride semiconductors</title>
+      <link>/talk/tyc-2011/</link>
+      <pubDate>Fri, 15 Apr 2011 13:00:59 +1000</pubDate>
+      <guid>/talk/tyc-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

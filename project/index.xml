@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | John Buckeridge</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{currentYear} by John Buckeridge</copyright><lastBuildDate>Fri, 11 Oct 2019 15:00:47 +1000</lastBuildDate>
+    <image>
+      <url>/img/logo-scattering1.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Charge carrier - defect interactions</title>
+      <link>/project/scattering-theory/</link>
+      <pubDate>Fri, 11 Oct 2019 15:00:47 +1000</pubDate>
+      <guid>/project/scattering-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Development</title>
+      <link>/project/coding/</link>
+      <pubDate>Fri, 11 Oct 2019 15:00:47 +1000</pubDate>
+      <guid>/project/coding/</guid>
+      <description>&lt;p&gt;I have developed many analysis tools through the course of my research. My language of choice is FORTRAN 90 (yes, I&amp;rsquo;m a dinosaur), but I also use C++, Python and bash scripting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dilute Nitride and Bismide Semiconductors</title>
+      <link>/project/dilute-nitrides/</link>
+      <pubDate>Fri, 11 Oct 2019 15:00:47 +1000</pubDate>
+      <guid>/project/dilute-nitrides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materials for thermoelectrics</title>
+      <link>/project/thermoelectrics/</link>
+      <pubDate>Fri, 11 Oct 2019 15:00:47 +1000</pubDate>
+      <guid>/project/thermoelectrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solid Oxide Fuel Cell Cathodes</title>
+      <link>/project/sofcs/</link>
+      <pubDate>Fri, 11 Oct 2019 15:00:47 +1000</pubDate>
+      <guid>/project/sofcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wide-Gap Semiconductors</title>
+      <link>/project/wide-gap-semiconductors/</link>
+      <pubDate>Fri, 11 Oct 2019 15:00:47 +1000</pubDate>
+      <guid>/project/wide-gap-semiconductors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

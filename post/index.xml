@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | John Buckeridge</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{currentYear} by John Buckeridge</copyright><lastBuildDate>Tue, 01 Oct 2019 00:03:47 +1000</lastBuildDate>
+    <image>
+      <url>/img/logo-scattering1.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Joining London South Bank University as a lecturer</title>
+      <link>/post/oct2019_lsbu_start/</link>
+      <pubDate>Tue, 01 Oct 2019 00:03:47 +1000</pubDate>
+      <guid>/post/oct2019_lsbu_start/</guid>
+      <description>&lt;p&gt;After a busy September, full of childcare, getting projects into a fit state for publication, meetings, planning, backing up files and physical labour, I have completed my move to LSBU. I now have an office with a view! And quite a nice view too.&lt;/p&gt;
+
+&lt;p&gt;I have been made very welcome here by all the staff. The location is nice, the students are friendly and there are plenty of opportunities for research collaborations within the School of Engineering. I have a shorter commute, which involves boris-biking from Waterloo. Very pleasant so far!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leaving UCL after over 8 years at the Department of Chemistry</title>
+      <link>/post/sept2019_ucl_leaving/</link>
+      <pubDate>Mon, 30 Sep 2019 14:03:47 +1000</pubDate>
+      <guid>/post/sept2019_ucl_leaving/</guid>
+      <description>&lt;p&gt;Very sad to be leaving UCL after so long. I have made many friends here, got to be involved in a lot of great research projects, formed collaborations that I hope will last the rest of my career and enjoyed life in Bloomsbury. Lunch Punch in the gym will be missed.&lt;/p&gt;
+
+&lt;p&gt;I had many leaving dos, as I left Richard&amp;rsquo;s group in 2018 and David&amp;rsquo;s in 2019. Many nice meals were had, as well as beers in the Housman Room and various pubs. The pic is from a meal in the local Greek restaurant when I left Richard&amp;rsquo;s group.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/scattering-theory/</loc>
+    <lastmod>2019-10-11T15:00:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/coding/</loc>
+    <lastmod>2019-10-11T15:00:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/dilute-nitrides/</loc>
+    <lastmod>2019-10-11T15:00:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-11T15:00:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/thermoelectrics/</loc>
+    <lastmod>2019-10-11T15:00:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-10-11T15:00:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sofcs/</loc>
+    <lastmod>2019-10-11T15:00:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/wide-gap-semiconductors/</loc>
+    <lastmod>2019-10-11T15:00:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/oct2019_lsbu_start/</loc>
+    <lastmod>2019-10-01T00:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-10-01T00:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-10-01T00:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sc-fermi/</loc>
+    <lastmod>2019-10-01T00:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-10-01T00:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-10-01T00:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/sept2019_ucl_leaving/</loc>
+    <lastmod>2019-09-30T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gasb_insb/</loc>
+    <lastmod>2019-07-25T00:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gan_defects/</loc>
+    <lastmod>2019-06-18T00:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2019-05-14T10:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-05-14T10:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/quantum-computing/</loc>
+    <lastmod>2019-05-14T10:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bas_elec/</loc>
+    <lastmod>2019-05-08T00:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tio2_myth/</loc>
+    <lastmod>2019-03-17T00:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lab/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/tyc-imperial/</loc>
+    <lastmod>2018-10-08T14:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/oxidation_states/</loc>
+    <lastmod>2018-10-01T00:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/sfsb-conference/</loc>
+    <lastmod>2018-08-31T11:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/icps-montpellier/</loc>
+    <lastmod>2018-08-03T09:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/thermoelectric-india/</loc>
+    <lastmod>2018-01-09T12:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/tyndall-2016/</loc>
+    <lastmod>2016-08-04T09:30:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/tyc-2011/</loc>
+    <lastmod>2011-04-15T13:00:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/software/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>

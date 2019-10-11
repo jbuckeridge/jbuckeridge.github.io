@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | John Buckeridge</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{currentYear} by John Buckeridge</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:59 +1000</lastBuildDate>
+    <image>
+      <url>/img/logo-scattering1.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Equilibrium point defect and charge carrier concentrations in a material determined through calculation of the self-consistent Fermi energy</title>
+      <link>/publication/sc-fermi/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:59 +1000</pubDate>
+      <guid>/publication/sc-fermi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrinsic point defects and the $n$- and $p$-type dopability of the narrow gap semiconductors GaSb and InSb</title>
+      <link>/publication/gasb_insb/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:59 +1000</pubDate>
+      <guid>/publication/gasb_insb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donor and acceptor characteristics of native point defects in GaN</title>
+      <link>/publication/gan_defects/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:59 +1000</pubDate>
+      <guid>/publication/gan_defects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The electronic band structure and optical properties of boron arsenide</title>
+      <link>/publication/bas_elec/</link>
+      <pubDate>Wed, 08 May 2019 00:00:59 +1000</pubDate>
+      <guid>/publication/bas_elec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dispelling the Myth of Passivated Codoping in TiO$_2$</title>
+      <link>/publication/tio2_myth/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:59 +1000</pubDate>
+      <guid>/publication/tio2_myth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxidation states and ionicity</title>
+      <link>/publication/oxidation_states/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:59 +1000</pubDate>
+      <guid>/publication/oxidation_states/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

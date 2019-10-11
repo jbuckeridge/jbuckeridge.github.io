@@ -1,0 +1,120 @@
++++
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
+
+title = "Funding & Support"
+subtitle = "Present & Past"
+
+[[item]]
+  organization = "Amazon Web Services (AWS)"
+  organization_url = "https://aws.amazon.com"
+  title = "Super-resolution processing on the cloud"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = "**Sevan is awarded cloud computing resources for this project.**"
+
+  
+  
+[[item]]
+  organization = "Imperial Confidence in Concept (ICiC) Grant"
+  organization_url = "https://www.imperial.ac.uk/research-and-innovation/research-office/funder-information/funding-opportunities/internal-funding-opportunities/icic/"
+  title = "Fast Super-resolution Ultrasound (SR-US) Image Processing"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = "**Sevan is a Co-Investigator (Research Lead). Value of support: £71k**"
+
+  
+[[item]]
+  organization = "EPSRC Impact Acceleration"
+  organization_url = "https://epsrc.ukri.org/"
+  title = "Testicular Lesion Characterisation using Super-Resolution Ultrasound"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = "**Sevan is a Co-Investigator. Value of support: £60k**"
+
+
+[[item]]
+  organization = "Nvidia GPU Grant"
+  organization_url = "https://developer.nvidia.com/academic_gpu_seeding"
+  title = "3D Super-Resolution Ultrasound Imaging"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-04-01"
+  date_end = ""
+  description = "**Sevan is awarded an Nvidia Titan XP.**"
+
+  
+  
+  
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+[design.background]
+  #image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  text_color_light = false
+
+  
+  
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["60px", "0", "50px", "0"]
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
+
+
+<div class="row">
+	<div class="column">
+		<div style="height: 30px"> </div>
+	<a href="https://epsrc.ukri.org/" target="_blank">
+	<img src="..\img\EPSRC.png" width="200px">
+	</a>
+	</div>
+		<div style="width: 30px"> </div>
+	<div class="column">
+		<div style="height: 30px"> </div>
+	<a href="https://www.nvidia.com/en-gb/" target="_blank">
+	<img src="..\img\NVIDIA.png" width="240px">
+	</a>
+	</div>
+		<div style="width: 30px"> </div>
+	<div class="column">
+		<div style="height: 30px"> </div>
+	<a href="http://www.imperial.ac.uk/" target="_blank">
+	<img src="..\img\IMPERIAL.png" width="220px">
+	</a>
+	</div>
+</div>
+ 
+ <div class="row">
+	<div class="column">
+		<div style="height: 30px"> </div>
+	<a href="https://aws.amazon.com" target="_blank">
+	<img src="..\img\aws.png" width="200px">
+	</a>
+	</div>
+</div>
+
+  <div style="height: 30px"> </div>

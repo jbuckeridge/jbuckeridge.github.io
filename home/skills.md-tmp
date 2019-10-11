@@ -1,0 +1,39 @@
++++
+# A Skills section created with the Featurette widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
+
+#title = " "
+#subtitle = ""
+
+# Showcase personal skills or business features.
+# 
+# Add/remove as many `[[feature]]` blocks below as you like.
+# 
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+
+#[[feature]]
+#  icon = "trophy"
+#  icon_pack = "fas"
+#  name = "Grants & Awards"
+#  description = "As well as large amounts of computer time on the national computers ARCHER and Thomas, I have received a bursary to travel to India for the UK-India Workshop on Thermoelectrics (2018), funding from the HPC-Europa2 Access Program to travel to Barcelona (2012)[Sevan was awarded](lab/#funding_blank) an ICiC Grant (2019), EPSRC Impact Acceleration Award (2018), Nvidia GPU Grant (2018) and ULTRA (2014)."
+
+#[[feature]]
+#  icon = "chalkboard-teacher"
+#  icon_pack = "fas"
+#  name = "Teaching"
+#  description = "ENG5_411 Engineering Software C++. [List of modules](http://www.lsbu.ac.uk/courses/course-finder/electrical-and-electronic-engineering-meng-hons#course_tab_modules); "
+  
+#[[feature]]
+#  icon = "scroll"
+#  icon_pack = "fas"
+#  name = "Not-for-profit"
+#  description = "John supports not-for-profit publishers (APS, AAAS, AIP, IOP, arXiv.)"
+  
+  
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "0", "50px", "0"]
++++
