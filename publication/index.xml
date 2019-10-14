@@ -17,7 +17,8 @@
       <link>/publication/sc-fermi/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:59 +1000</pubDate>
       <guid>/publication/sc-fermi/</guid>
-      <description></description>
+      <description>&lt;p&gt;This paper describes the algorithm for my code SC-FERMI, which allows you to compute the self-consistent Fermi energy for a system with a set of defects. The operation of the code is demonstrated using the set of intrinsic point defects in GaN calculated using hybrid QM/MM. As those calculated defect levels were a bit controversial at one stage, I showed that the values used are actually quite similar to other calculations in the literature using plane-wave density functional theory. I had fun deriving the defect concentration expressions from statistical mechanics!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +26,8 @@
       <link>/publication/gasb_insb/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:59 +1000</pubDate>
       <guid>/publication/gasb_insb/</guid>
-      <description></description>
+      <description>&lt;p&gt;These calculations were on the &amp;lsquo;back burner&amp;rsquo; for a while, but ended up providing some insights into the electronic properties of GaSb and InSb, two standard semiconducting materials that not many people have looked into using first electronic structure theory calculations. The defect physics of both are investigated, using plane-wave, hybrid DFT, where the hybrid functional is chosen to reproduce only the band gap of each, but it is shown that the bulk properties of each system are reproduced well.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +35,8 @@
       <link>/publication/gan_defects/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:59 +1000</pubDate>
       <guid>/publication/gan_defects/</guid>
-      <description></description>
+      <description>&lt;p&gt;Hmm, what to say about this paper. First of all, a lot of really good work by Zijuan. There is a lot of information here which should be useful for experimentalists in the field. We were met with a lot of criticism for this work, mainly it seems because people in the field doing electronic structure calculations were not familiar with the method. The results, however, when using hybrid functionals similar to those used by others who performed plane-wave DFT calculations, agree reasonably well with other studies. The BB1k functional, which is very rarely used in solid-state studies, provides some intriguing results for the optical absorption and emission properties of defects in GaN.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -41,7 +44,8 @@
       <link>/publication/bas_elec/</link>
       <pubDate>Wed, 08 May 2019 00:00:59 +1000</pubDate>
       <guid>/publication/bas_elec/</guid>
-      <description></description>
+      <description>&lt;p&gt;The paper in which I got stuck in properly with the Questaal code for QS$GW$ calculations! Once you have it up and running, it&amp;rsquo;s an excellent code and the methods produce nice results that should be useful. BAs is of interest because it has been shown to be a very efficient thermal conductor, while being cheaper than diamond and more compatible with common semiconducting materials. It seems to be a tough system to produce good quality single crystals of though.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +53,8 @@
       <link>/publication/tio2_myth/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:59 +1000</pubDate>
       <guid>/publication/tio2_myth/</guid>
-      <description></description>
+      <description>&lt;p&gt;Some very nice computational work here by Ben Williamson, coupled with careful experiments from Ivan Parkin and Claire Carmalt&amp;rsquo;s groups. Co-doping of TiO$_2$ in order to narrow its band gap so that photocatalytic water splitting with visible light would progress more efficiently, is shown to be largely a &amp;lsquo;myth&amp;rsquo;! TiO$_2$ wants to be $n$-type, so co-doping is not going to be efficient due to the thermodynamics.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +62,8 @@
       <link>/publication/oxidation_states/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:59 +1000</pubDate>
       <guid>/publication/oxidation_states/</guid>
-      <description></description>
+      <description>&lt;p&gt;A fun perspective to be part of! It involved reading a lot of interesting older papers on electronic structure and bonding in condensed matter. We show that the concept of oxidation state has survived intact and is still very useful heuristically. There are exceptions, which we discuss, and future challenges.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
