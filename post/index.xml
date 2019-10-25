@@ -5,12 +5,21 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{currentYear} by John Buckeridge</copyright><lastBuildDate>Tue, 01 Oct 2019 00:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{currentYear} by John Buckeridge</copyright><lastBuildDate>Thu, 24 Oct 2019 00:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/logo-scattering1.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Special issue in Crystals</title>
+      <link>/post/oct2019_guest_editor/</link>
+      <pubDate>Thu, 24 Oct 2019 00:03:47 +1000</pubDate>
+      <guid>/post/oct2019_guest_editor/</guid>
+      <description>&lt;p&gt;I am the guest editor for a special issue in the journal &lt;a href=&#34;https://www.mdpi.com/journal/crystals&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Crystals&lt;/em&gt;&lt;/a&gt; on the topic of defects in semiconductors. It&amp;rsquo;s a relatively broad topic, but hopefully will attract a diverse set of papers. Please submit if you have some suitable work as your paper will be in good company and should reach the correct audience! More info can be found on the &lt;a href=&#34;https://www.mdpi.com/journal/crystals/special_issues/defects_semiconductors&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Joining London South Bank University as a lecturer</title>
