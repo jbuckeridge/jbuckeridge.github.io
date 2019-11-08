@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>John Buckeridge</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{currentYear} by John Buckeridge</copyright><lastBuildDate>Thu, 24 Oct 2019 00:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{currentYear} by John Buckeridge</copyright><lastBuildDate>Thu, 07 Nov 2019 00:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/logo-scattering1.png</url>
       <title>John Buckeridge</title>
@@ -23,7 +23,7 @@
     <item>
       <title>Posts</title>
       <link>/post/</link>
-      <pubDate>Thu, 24 Oct 2019 00:03:47 +1000</pubDate>
+      <pubDate>Thu, 07 Nov 2019 00:03:47 +1000</pubDate>
       <guid>/post/</guid>
       <description></description>
     </item>
