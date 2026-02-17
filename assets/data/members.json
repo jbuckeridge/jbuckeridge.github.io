@@ -1,0 +1,110 @@
+{
+  "currentMembers": {
+    "postdocs": [],
+    "phdStudents": [
+      {
+        "name": "Nisrine Sakaki",
+        "image": "/assets/images/team/nisrine-sakaki.png",
+        "position": "PhD Student (3rd Year)",
+        "researchTopic": "Tuning polarisability of PbTiO3 with the help of controlled hydrogenation",
+        "email": "sakakin@lsbu.ac.uk",
+        "website": null,
+        "linkedin": "https://www.linkedin.com/in/nisrine-sakaki-29a55083/",
+        "googleScholar": null,
+        "github": null
+      },
+      {
+        "name": "Md. Maruf Mridha",
+        "image": "/assets/images/team/maruf-mridha.webp",
+        "position": "PhD Student (3rd Year)",
+        "researchTopic": "Computational investigation of 2D carbon nitride Photocatalysts for H2 production",
+        "email": "mridham@lsbu.ac.uk",
+        "website": null,
+        "linkedin": "https://www.linkedin.com/in/maruf-mridha-3a2787114/",
+        "googleScholar": "https://scholar.google.com/citations?user=v2pdEDAAAAAJ&hl=en",
+        "github": "https://github.com/MarufMridha"
+      },
+      {
+        "name": "Aritra Roy",
+        "image": "/assets/images/team/aritra-roy.jpg",
+        "position": "PhD Student (3rd Year)",
+        "researchTopic": "Text mining and deep learning for predicting novel piezoelectric materials",
+        "email": "contact@aritraroy.live",
+        "website": "https://aritraroy.live/",
+        "linkedin": "https://linkedin.com/in/aritraroy24",
+        "googleScholar": "https://scholar.google.co.uk/citations?user=er7v8VoAAAAJ&hl=en",
+        "github": "https://github.com/aritraroy24"
+      }
+    ],
+    "mastersStudents": [],
+    "bachelorsStudents": [
+      {
+        "name": "Sivagnanam Sathyan",
+        "image": "/assets/images/team/sivagnanam-sathyan.jpg",
+        "position": "BEng (Hons) Electrical and Electronic Engineering (FT)",
+        "researchTopic": "Effect of point doping in GaN semiconductor for larger supercell",
+        "email": "sathyas3@lsbu.ac.uk",
+        "website": null,
+        "linkedin": "https://www.linkedin.com/in/sathyan-sivagnanam-17071b269/",
+        "googleScholar": null,
+        "github": null
+      }
+    ]
+  },
+  "alumni": [
+    {
+      "name": "Dr George Parris",
+      "currentPosition": "Research Associate at London South Bank University",
+      "groupPosition": "PhD Student",
+      "duration": "2020-2024",
+      "researchTitle": "Single-shot femtosecond laser ablation of nano/polycrystalline titanium investigated using molecular dynamics and experiments",
+      "email": "george.parris@lsbu.ac.uk",
+      "website": null,
+      "linkedin": "https://www.linkedin.com/in/george-parris-profile/",
+      "googleScholar": null,
+      "github": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "Prof. C. Richard A. Catlow",
+      "institute": "University College London",
+      "papersCount": 42,
+      "website": null,
+      "linkedin": null,
+      "googleScholar": null
+    },
+    {
+      "name": "Dr Alexey A. Sokol",
+      "institute": "University College London",
+      "papersCount": 35,
+      "website": null,
+      "linkedin": null,
+      "googleScholar": null
+    },
+    {
+      "name": "Dr Thomas W. Keal",
+      "institute": "STFC Daresbury Laboratory",
+      "papersCount": 17,
+      "website": null,
+      "linkedin": null,
+      "googleScholar": null
+    },
+    {
+      "name": "Dr Xingfan Zhang",
+      "institute": "University College London",
+      "papersCount": 9,
+      "website": null,
+      "linkedin": null,
+      "googleScholar": null
+    },
+    {
+      "name": "Dr You Lu",
+      "institute": "STFC Daresbury Laboratory",
+      "papersCount": 9,
+      "website": null,
+      "linkedin": null,
+      "googleScholar": null
+    }
+  ]
+}

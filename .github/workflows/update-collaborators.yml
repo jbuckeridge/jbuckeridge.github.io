@@ -1,0 +1,38 @@
+name: Update Collaborators Cache
+
+on:
+  schedule:
+    # Runs at midnight UTC on the 1st and 15th of each month
+    - cron: '0 0 1,15 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-collaborators:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch and cache collaborators
+        run: node scripts/update-collaborators.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/data/collaborators.json
+          if ! git diff --staged --quiet; then
+            git commit -m "Update collaborators cache"
+            git push
+          else
+            echo "No changes to collaborators cache"
+          fi

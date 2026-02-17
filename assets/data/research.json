@@ -1,0 +1,74 @@
+[
+  {
+    "id": "defect-chemistry",
+    "title": "Defect Chemistry",
+    "tag": "research-topics",
+    "image": "/assets/images/research/defect-chemistry.jpg",
+    "github": null,
+    "paper": null,
+    "documentation": null
+  },
+  {
+    "id": "semiconductors",
+    "title": "Semiconductors",
+    "tag": "research-topics",
+    "image": "/assets/images/research/semiconductors.jpg",
+    "github": null,
+    "paper": null,
+    "documentation": null
+  },
+  {
+    "id": "thermoelectrics",
+    "title": "Thermoelectrics",
+    "tag": "research-topics",
+    "image": "/assets/images/research/thermoelectrics.jpg",
+    "github": null,
+    "paper": null,
+    "documentation": null
+  },
+  {
+    "id": "perovskite-solar-cells",
+    "title": "Perovskite Solar Cells",
+    "tag": "research-topics",
+    "image": "/assets/images/research/perovskite-solar-cells.jpg",
+    "github": null,
+    "paper": null,
+    "documentation": null
+  },
+  {
+    "id": "transparent-conducting-oxides",
+    "title": "Transparent Conducting Oxides",
+    "tag": "research-topics",
+    "image": "/assets/images/research/transparent-conducting-oxides.jpg",
+    "github": null,
+    "paper": null,
+    "documentation": null
+  },
+  {
+    "id": "piezo-materials",
+    "title": "Piezoelectric Materials",
+    "tag": "research-topics",
+    "image": "/assets/images/research/piezoelectric-materials.jpg",
+    "github": null,
+    "paper": null,
+    "documentation": null
+  },
+  {
+    "id": "sc-fermi",
+    "title": "SC-FERMI",
+    "tag": "software-codes",
+    "image": "/assets/images/research/sc-fermi-example.png",
+    "github": "https://github.com/jbuckeridge/sc-fermi",
+    "paper": "https://www.sciencedirect.com/science/article/pii/S0010465519302048",
+    "documentation": null
+  },
+  {
+    "id": "cplap",
+    "title": "CPLAP",
+    "tag": "software-codes",
+    "image": "/assets/images/research/cplap-example.png",
+    "github": "https://github.com/jbuckeridge/cplap",
+    "paper": "https://www.sciencedirect.com/science/article/pii/S0010465513002993",
+    "documentation": null
+  }
+]

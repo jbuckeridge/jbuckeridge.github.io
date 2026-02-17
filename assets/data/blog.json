@@ -1,0 +1,38 @@
+[
+  {
+    "id": "occult-chemistry",
+    "title": "Occult Chemistry",
+    "date": "2019-11-06",
+    "author": "John Buckeridge",
+    "excerpt": "Exploring Philip Ball's book 'Invisible' and the fascinating connections between 19th-century science and occult investigations of atomic structure.",
+    "tags": ["History of Science", "Atomic Theory", "Philosophy"],
+    "markdown": true
+  },
+  {
+    "id": "guest-editor-crystals",
+    "title": "Special Issue in Crystals",
+    "date": "2019-10-24",
+    "author": "John Buckeridge",
+    "excerpt": "Serving as guest editor for a special issue on semiconductor defects in the journal Crystals - welcoming diverse submissions from the research community.",
+    "tags": ["Publications", "Guest Editor", "Semiconductors"],
+    "markdown": true
+  },
+  {
+    "id": "joining-lsbu",
+    "title": "Joining London South Bank University as a Lecturer",
+    "date": "2019-10-01",
+    "author": "John Buckeridge",
+    "excerpt": "Successfully transitioned to LSBU with an office with a view! Excited about the warm welcome, convenient location, and abundant research opportunities.",
+    "tags": ["Career", "News", "LSBU"],
+    "markdown": true
+  },
+  {
+    "id": "leaving-ucl",
+    "title": "Leaving UCL after over 8 years at the Department of Chemistry",
+    "date": "2019-09-30",
+    "author": "John Buckeridge",
+    "excerpt": "Reflecting on eight wonderful years at UCL's Department of Chemistry - the friendships, collaborations, and research journey that shaped my career.",
+    "tags": ["Career", "UCL", "Reflection"],
+    "markdown": true
+  }
+]

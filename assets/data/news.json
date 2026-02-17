@@ -1,0 +1,52 @@
+[
+  {
+    "id": "guest-editor-2019",
+    "title": "Guest Editor for Special Issue on Quantum Computing in Materials Science",
+    "date": "2019-10-15",
+    "category": "Academic",
+    "excerpt": "Excited to announce that I will be serving as a guest editor for a special issue on quantum computing applications in materials science.",
+    "content": "Excited to announce that I will be serving as a guest editor for a special issue on quantum computing applications in materials science. This issue will feature cutting-edge research on how quantum algorithms can revolutionize materials discovery and design.",
+    "image": null,
+    "link": null
+  },
+  {
+    "id": "lsbu-start-2019",
+    "title": "Starting at London South Bank University",
+    "date": "2019-10-01",
+    "category": "Career",
+    "excerpt": "Thrilled to announce that I've joined London South Bank University as a Lecturer in Energy Engineering and Materials Devices.",
+    "content": "I'm thrilled to announce that I've joined London South Bank University as a Lecturer in Energy Engineering and Materials Devices. Looking forward to establishing new research programs and collaborating with colleagues here.",
+    "image": null,
+    "link": null
+  },
+  {
+    "id": "phd-ad-2019",
+    "title": "PhD Position Available: Quantum Computing for Materials",
+    "date": "2019-11-01",
+    "category": "Opportunities",
+    "excerpt": "Exciting PhD opportunity to work on quantum computing applications for materials science.",
+    "content": "We have an exciting PhD opportunity available to work on quantum computing applications for materials science. The project will involve developing quantum algorithms for electronic structure calculations and implementing them on real quantum hardware. If interested, please contact me with your CV and research interests.",
+    "image": null,
+    "link": "/contact.html"
+  },
+  {
+    "id": "ucl-leaving-2019",
+    "title": "Leaving UCL",
+    "date": "2019-09-30",
+    "category": "Career",
+    "excerpt": "After several productive years at UCL, moving on to new opportunities at London South Bank University.",
+    "content": "After several productive years at UCL, I'm moving on to new opportunities at London South Bank University. Grateful for the collaborations and research achievements during my time here.",
+    "image": null,
+    "link": null
+  },
+  {
+    "id": "occult-chemistry-2019",
+    "title": "Occult Chemistry and Early Atomic Theory",
+    "date": "2019-11-15",
+    "category": "Research",
+    "excerpt": "An interesting historical perspective on early attempts to understand atomic structure.",
+    "content": "An interesting historical perspective on early attempts to understand atomic structure. A reminder of how far we've come in computational materials science, from speculative models to quantitative predictions.",
+    "image": null,
+    "link": null
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "2019-millennial-challenges",
+    "title": "Millenial challenges in computational materials science",
+    "date": "2019-05-14",
+    "time": "10:00",
+    "location": "University of Cambridge",
+    "event": "Materials Science Seminar",
+    "excerpt": "Exploring the major challenges facing computational materials science in the coming decades.",
+    "tags": ["Materials Science", "Computational Methods"]
+  },
+  {
+    "id": "2018-defect-electrons",
+    "title": "Modelling electrons bound at defect sites in wide gap semiconductors",
+    "date": "2018-10-08",
+    "time": "14:00",
+    "location": "Imperial College London",
+    "event": "Semiconductor Physics Seminar",
+    "excerpt": "Understanding how electrons behave at defect sites in wide bandgap semiconductor materials.",
+    "tags": ["Semiconductors", "Defect Physics"]
+  },
+  {
+    "id": "2018-compact-diffuse-states",
+    "title": "The competition between compact and diffuse states in wide gap semiconductors",
+    "date": "2018-08-31",
+    "time": "11:00",
+    "location": "University of Oxford",
+    "event": "Quantum Materials Workshop",
+    "excerpt": "Investigating the balance between localized and delocalized electronic states in semiconductor defects.",
+    "tags": ["Semiconductors", "Electronic Structure"]
+  },
+  {
+    "id": "2018-gan-defects",
+    "title": "The defect physics of GaN: how the competition between compact and shallow states determines luminescence properties",
+    "date": "2018-08-03",
+    "time": "09:00",
+    "location": "University of Bristol",
+    "event": "Photonics and Optoelectronics Conference",
+    "excerpt": "Exploring how defect states in gallium nitride control its light emission characteristics.",
+    "tags": ["GaN", "Luminescence", "Defects"]
+  },
+  {
+    "id": "2018-thermoelectric-design",
+    "title": "Computational design of new thermoelectric materials",
+    "date": "2018-01-09",
+    "time": "12:00",
+    "location": "University College London",
+    "event": "Energy Materials Symposium",
+    "excerpt": "Using computational methods to discover and design novel materials for thermoelectric energy conversion.",
+    "tags": ["Thermoelectrics", "Energy Materials"]
+  },
+  {
+    "id": "2016-point-defects",
+    "title": "Modelling point defects in wide-gap semiconductors: elucidating the balance between ionic and electronic disorder",
+    "date": "2016-08-04",
+    "time": "09:30",
+    "location": "University of Cambridge",
+    "event": "Defects in Semiconductors Conference",
+    "excerpt": "Understanding the interplay between atomic structure and electronic properties in semiconductor defects.",
+    "tags": ["Semiconductors", "Defect Modeling"]
+  },
+  {
+    "id": "2011-dilute-nitrides",
+    "title": "Theoretical study of local defect structures in dilute nitride semiconductors",
+    "date": "2011-04-15",
+    "time": "13:00",
+    "location": "University of Surrey",
+    "event": "Semiconductor Theory Seminar",
+    "excerpt": "Computational investigation of atomic-scale defect configurations in nitrogen-containing semiconductors.",
+    "tags": ["Dilute Nitrides", "Defect Theory"]
+  }
+]
