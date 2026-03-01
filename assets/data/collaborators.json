@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T01:23:03.906Z",
+  "lastUpdated": "2026-03-01T02:39:29.063Z",
   "orcidId": "0000-0002-2537-5082",
   "totalWorks": 80,
   "collaborators": [
@@ -383,7 +383,7 @@
     },
     {
       "name": "Adam Jackson",
-      "institute": "",
+      "institute": "University of Bath",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5043828109"
     },
@@ -659,7 +659,7 @@
     },
     {
       "name": "Matthew B. Watkins",
-      "institute": "",
+      "institute": "University College London",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5006409298"
     },
