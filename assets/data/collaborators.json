@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T02:39:29.063Z",
+  "lastUpdated": "2026-03-15T02:44:12.637Z",
   "orcidId": "0000-0002-2537-5082",
   "totalWorks": 80,
   "collaborators": [
@@ -401,7 +401,7 @@
     },
     {
       "name": "Álvaro Mayoral",
-      "institute": "Instituto de Nanociencia y Materiales de Aragón",
+      "institute": "Universidad de Zaragoza",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5068365698"
     },
@@ -563,7 +563,7 @@
     },
     {
       "name": "Iwao Matsuda",
-      "institute": "The University of Tokyo",
+      "institute": "Tohoku University",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5034775911"
     },
@@ -641,7 +641,7 @@
     },
     {
       "name": "Maiko Nishibori",
-      "institute": "Institute for Multidisciplinary Research",
+      "institute": "Tohoku University",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5086456041"
     },
@@ -713,7 +713,7 @@
     },
     {
       "name": "Osamu Terasaki",
-      "institute": "ShanghaiTech University",
+      "institute": "Hatch (Canada)",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5032245268"
     },
