@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-04-01T02:03:05.451Z",
+  "lastUpdated": "2026-04-15T01:58:40.592Z",
   "orcidId": "0000-0002-2537-5082",
   "publications": [
+    {
+      "title": "ComProScanner: a multi-agent based framework for composition-property structured data extraction from scientific literature",
+      "year": 2026,
+      "journal": "Digital Discovery",
+      "type": "journal-article",
+      "doi": "10.1039/D5DD00521C",
+      "url": "https://doi.org/10.1039/D5DD00521C",
+      "putCode": 210458196,
+      "authors": [
+        "Roy, A.",
+        "Grisan, E.",
+        "Buckeridge, J.",
+        "Gattinoni, C."
+      ],
+      "volume": null,
+      "issue": null,
+      "pages": null
+    },
     {
       "title": "Exploring the thermodynamics of disordered materials with quantum computing",
       "year": 2025,
