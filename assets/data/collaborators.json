@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T02:49:41.573Z",
+  "lastUpdated": "2026-05-01T03:41:54.908Z",
   "orcidId": "0000-0002-2537-5082",
   "totalWorks": 85,
   "collaborators": [
@@ -161,7 +161,7 @@
     },
     {
       "name": "Zijuan Xie",
-      "institute": "Southern University of Science and Technology",
+      "institute": "Harbin Institute of Technology",
       "papersCount": 4,
       "openAlexId": "https://openalex.org/A5034441438"
     },
@@ -766,12 +766,6 @@
       "openAlexId": "https://openalex.org/A5086830936"
     },
     {
-      "name": "Michael Anderson",
-      "institute": "University of Cambridge",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5072921389"
-    },
-    {
       "name": "Michael J. Powell",
       "institute": "University College London",
       "papersCount": 1,
@@ -791,7 +785,7 @@
     },
     {
       "name": "Nicholas Chadwick",
-      "institute": "",
+      "institute": "Bio Nano Consulting",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5032714194"
     },
@@ -848,12 +842,6 @@
       "institute": "Applied Materials (United States)",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5108790345"
-    },
-    {
-      "name": "S N Huang",
-      "institute": "University College London",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5105886367"
     },
     {
       "name": "Sabina A. Nicolae",
