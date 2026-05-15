@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T03:41:54.908Z",
+  "lastUpdated": "2026-05-15T03:46:45.326Z",
   "orcidId": "0000-0002-2537-5082",
   "totalWorks": 85,
   "collaborators": [
@@ -22,16 +22,16 @@
       "openAlexId": "https://openalex.org/A5017503270"
     },
     {
+      "name": "Scott M. Woodley",
+      "institute": "University College London",
+      "papersCount": 22,
+      "openAlexId": "https://openalex.org/A5090515130"
+    },
+    {
       "name": "Aron Walsh",
       "institute": "University of Bath",
       "papersCount": 20,
       "openAlexId": "https://openalex.org/A5035797693"
-    },
-    {
-      "name": "Scott M. Woodley",
-      "institute": "University College London",
-      "papersCount": 20,
-      "openAlexId": "https://openalex.org/A5090515130"
     },
     {
       "name": "Thomas W. Keal",
@@ -106,6 +106,18 @@
       "openAlexId": "https://openalex.org/A5063515207"
     },
     {
+      "name": "Chiara Gattinoni",
+      "institute": "King's College London",
+      "papersCount": 5,
+      "openAlexId": "https://openalex.org/A5005638170"
+    },
+    {
+      "name": "Enrico Grisan",
+      "institute": "London South Bank University",
+      "papersCount": 5,
+      "openAlexId": "https://openalex.org/A5022937331"
+    },
+    {
       "name": "Qing Hou",
       "institute": "University College London",
       "papersCount": 5,
@@ -122,12 +134,6 @@
       "institute": "University College London",
       "papersCount": 4,
       "openAlexId": "https://openalex.org/A5065717997"
-    },
-    {
-      "name": "Enrico Grisan",
-      "institute": "London South Bank University",
-      "papersCount": 4,
-      "openAlexId": "https://openalex.org/A5022937331"
     },
     {
       "name": "Ivan P. Parkin",
@@ -170,12 +176,6 @@
       "institute": "University of Michigan–Ann Arbor",
       "papersCount": 3,
       "openAlexId": "https://openalex.org/A5070876029"
-    },
-    {
-      "name": "Chiara Gattinoni",
-      "institute": "King's College London",
-      "papersCount": 3,
-      "openAlexId": "https://openalex.org/A5005638170"
     },
     {
       "name": "Christopher N. Savory",
@@ -346,12 +346,6 @@
       "openAlexId": "https://openalex.org/A5014450167"
     },
     {
-      "name": "Scott M. Woodley",
-      "institute": "",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5121343269"
-    },
-    {
       "name": "Sean P. Nair",
       "institute": "Eastman Dental Hospital",
       "papersCount": 2,
@@ -514,18 +508,6 @@
       "openAlexId": "https://openalex.org/A5100330321"
     },
     {
-      "name": "Chiara Gattinoni",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5120378310"
-    },
-    {
-      "name": "Chiara Gattinoni",
-      "institute": "King's College London",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5130553537"
-    },
-    {
       "name": "David G. Lidzey",
       "institute": "University of Sheffield",
       "papersCount": 1,
@@ -566,12 +548,6 @@
       "institute": "University of Sheffield",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5041874760"
-    },
-    {
-      "name": "Enrico Grisan",
-      "institute": "London South Bank University",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5129389191"
     },
     {
       "name": "Frank Jäckel",
