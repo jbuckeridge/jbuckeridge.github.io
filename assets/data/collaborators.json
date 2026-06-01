@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T03:46:45.326Z",
+  "lastUpdated": "2026-06-01T04:23:30.523Z",
   "orcidId": "0000-0002-2537-5082",
   "totalWorks": 85,
   "collaborators": [
@@ -172,6 +172,12 @@
       "openAlexId": "https://openalex.org/A5034441438"
     },
     {
+      "name": "Aritra Roy",
+      "institute": "University of Kent",
+      "papersCount": 3,
+      "openAlexId": "https://openalex.org/A5102839920"
+    },
+    {
       "name": "Çağlıyan Kurdak",
       "institute": "University of Michigan–Ann Arbor",
       "papersCount": 3,
@@ -248,12 +254,6 @@
       "institute": "Imperial College London",
       "papersCount": 2,
       "openAlexId": "https://openalex.org/A5032592689"
-    },
-    {
-      "name": "Aritra Roy",
-      "institute": "University of Kent",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5102839920"
     },
     {
       "name": "C. F. Gorman",
@@ -440,12 +440,6 @@
       "institute": "Institut des langues et cultures d'Europe, Amérique, Afrique, Asie et Australie",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5029142289"
-    },
-    {
-      "name": "Aritra Roy",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5065014896"
     },
     {
       "name": "Aritra Roy",
@@ -863,7 +857,7 @@
     },
     {
       "name": "Stefan T. Bromley",
-      "institute": "Universitat de Barcelona",
+      "institute": "Institució Catalana de Recerca i Estudis Avançats",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5015354276"
     },
