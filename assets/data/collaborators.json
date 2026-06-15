@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-01T04:23:30.523Z",
+  "lastUpdated": "2026-06-15T04:46:52.993Z",
   "orcidId": "0000-0002-2537-5082",
-  "totalWorks": 85,
+  "totalWorks": 87,
   "collaborators": [
     {
       "name": "C. Richard A. Catlow",
@@ -17,7 +17,7 @@
     },
     {
       "name": "David O. Scanlon",
-      "institute": "Diamond Light Source",
+      "institute": "University College London",
       "papersCount": 29,
       "openAlexId": "https://openalex.org/A5017503270"
     },
@@ -64,6 +64,18 @@
       "openAlexId": "https://openalex.org/A5034641351"
     },
     {
+      "name": "Chiara Gattinoni",
+      "institute": "King's College London",
+      "papersCount": 7,
+      "openAlexId": "https://openalex.org/A5005638170"
+    },
+    {
+      "name": "Enrico Grisan",
+      "institute": "London South Bank University",
+      "papersCount": 7,
+      "openAlexId": "https://openalex.org/A5022937331"
+    },
+    {
       "name": "Lei Zhu",
       "institute": "University College London",
       "papersCount": 7,
@@ -104,18 +116,6 @@
       "institute": "Thomas Young Centre",
       "papersCount": 5,
       "openAlexId": "https://openalex.org/A5063515207"
-    },
-    {
-      "name": "Chiara Gattinoni",
-      "institute": "King's College London",
-      "papersCount": 5,
-      "openAlexId": "https://openalex.org/A5005638170"
-    },
-    {
-      "name": "Enrico Grisan",
-      "institute": "London South Bank University",
-      "papersCount": 5,
-      "openAlexId": "https://openalex.org/A5022937331"
     },
     {
       "name": "Qing Hou",
@@ -167,7 +167,7 @@
     },
     {
       "name": "Zijuan Xie",
-      "institute": "Harbin Institute of Technology",
+      "institute": "University College London",
       "papersCount": 4,
       "openAlexId": "https://openalex.org/A5034441438"
     },
@@ -179,7 +179,7 @@
     },
     {
       "name": "Çağlıyan Kurdak",
-      "institute": "University of Michigan–Ann Arbor",
+      "institute": "University of Michigan",
       "papersCount": 3,
       "openAlexId": "https://openalex.org/A5070876029"
     },
@@ -191,7 +191,7 @@
     },
     {
       "name": "Ctirad Uher",
-      "institute": "University of Michigan–Ann Arbor",
+      "institute": "University of Michigan",
       "papersCount": 3,
       "openAlexId": "https://openalex.org/A5077559707"
     },
@@ -215,7 +215,7 @@
     },
     {
       "name": "R. S. Goldman",
-      "institute": "University of Michigan–Ann Arbor",
+      "institute": "University of Michigan",
       "papersCount": 3,
       "openAlexId": "https://openalex.org/A5025433894"
     },
@@ -257,7 +257,7 @@
     },
     {
       "name": "C. F. Gorman",
-      "institute": "University of Michigan–Ann Arbor",
+      "institute": "University of Michigan",
       "papersCount": 2,
       "openAlexId": "https://openalex.org/A5080689893"
     },
@@ -413,7 +413,7 @@
     },
     {
       "name": "Aloysius Soon",
-      "institute": "University of Bath",
+      "institute": "Yonsei University",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5003625501"
     },
@@ -454,8 +454,20 @@
       "openAlexId": "https://openalex.org/A5130586981"
     },
     {
+      "name": "Aritra Roy",
+      "institute": "",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5137646023"
+    },
+    {
+      "name": "Aritra Roy",
+      "institute": "",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5137845719"
+    },
+    {
       "name": "Atsushi Togo",
-      "institute": "University of Bath",
+      "institute": "Kyoto University",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5057622973"
     },
@@ -485,7 +497,7 @@
     },
     {
       "name": "Chang-Eun Kim",
-      "institute": "University of Bath",
+      "institute": "Yonsei University",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5023093507"
     },
@@ -563,7 +575,7 @@
     },
     {
       "name": "H. Cheng",
-      "institute": "University of Michigan–Ann Arbor",
+      "institute": "University of Michigan",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5103438135"
     },
@@ -605,7 +617,7 @@
     },
     {
       "name": "Isao Tanaka",
-      "institute": "University of Bath",
+      "institute": "Kyoto University",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5042843695"
     },
@@ -803,7 +815,7 @@
     },
     {
       "name": "Ranga Rao Arnepalli",
-      "institute": "University College London",
+      "institute": "Applied Materials (United States)",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5050070610"
     },
@@ -983,7 +995,7 @@
     },
     {
       "name": "Y. Jin",
-      "institute": "University of Michigan–Ann Arbor",
+      "institute": "University of Michigan",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5028470132"
     },
