@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-15T02:41:53.974Z",
+  "lastUpdated": "2026-08-01T03:15:52.414Z",
   "orcidId": "0000-0002-2537-5082",
-  "totalWorks": 87,
+  "totalWorks": 88,
   "collaborators": [
     {
       "name": "C. Richard A. Catlow",
@@ -118,16 +118,16 @@
       "openAlexId": "https://openalex.org/A5063515207"
     },
     {
+      "name": "Bruno Camino",
+      "institute": "University College London",
+      "papersCount": 5,
+      "openAlexId": "https://openalex.org/A5001142744"
+    },
+    {
       "name": "Qing Hou",
       "institute": "University of Shanghai for Science and Technology",
       "papersCount": 5,
       "openAlexId": "https://openalex.org/A5007353429"
-    },
-    {
-      "name": "Bruno Camino",
-      "institute": "University College London",
-      "papersCount": 4,
-      "openAlexId": "https://openalex.org/A5001142744"
     },
     {
       "name": "David Mora‐Fonz",
@@ -712,6 +712,12 @@
       "openAlexId": "https://openalex.org/A5086456041"
     },
     {
+      "name": "Mao Lin",
+      "institute": "Amazon (United States)",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5138115711"
+    },
+    {
       "name": "Maria‐Magdalena Titirici",
       "institute": "Imperial College London",
       "papersCount": 1,
@@ -833,7 +839,7 @@
     },
     {
       "name": "Saurav Goel",
-      "institute": "London South Bank University",
+      "institute": "Indian Institute of Technology Guwahati",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5037899242"
     },
@@ -842,6 +848,12 @@
       "institute": "University College London",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5089878084"
+    },
+    {
+      "name": "Scott M. Woodley",
+      "institute": "University College London",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5141251891"
     },
     {
       "name": "Shijia Sun",
