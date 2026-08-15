@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T03:15:52.414Z",
+  "lastUpdated": "2026-08-15T01:22:00.250Z",
   "orcidId": "0000-0002-2537-5082",
   "totalWorks": 88,
   "collaborators": [
@@ -107,7 +107,7 @@
     },
     {
       "name": "Taifeng Liu",
-      "institute": "Henan University",
+      "institute": "Apple (Israel)",
       "papersCount": 6,
       "openAlexId": "https://openalex.org/A5023620551"
     },
@@ -730,6 +730,12 @@
       "openAlexId": "https://openalex.org/A5035687175"
     },
     {
+      "name": "Matthew Anderson",
+      "institute": "University of Cambridge",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5129936981"
+    },
+    {
       "name": "Matthew B. Watkins",
       "institute": "University College London",
       "papersCount": 1,
@@ -860,6 +866,12 @@
       "institute": "University College London",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5050790072"
+    },
+    {
+      "name": "Siming Huang",
+      "institute": "University College London",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5037727403"
     },
     {
       "name": "Simon Ansbro",
