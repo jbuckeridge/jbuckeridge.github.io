@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-01T04:13:33.903Z",
+  "lastUpdated": "2026-09-15T04:00:51.044Z",
   "orcidId": "0000-0002-2537-5082",
-  "totalWorks": 89,
+  "totalWorks": 88,
   "collaborators": [
     {
       "name": "C. Richard A. Catlow",
@@ -118,28 +118,22 @@
       "openAlexId": "https://openalex.org/A5023620551"
     },
     {
-      "name": "Benjamin A. D. Williamson",
-      "institute": "Gordon College",
-      "papersCount": 5,
-      "openAlexId": "https://openalex.org/A5063515207"
-    },
-    {
       "name": "Qing Hou",
       "institute": "University of Shanghai for Science and Technology",
       "papersCount": 5,
       "openAlexId": "https://openalex.org/A5007353429"
     },
     {
+      "name": "Benjamin A. D. Williamson",
+      "institute": "Gordon College",
+      "papersCount": 4,
+      "openAlexId": "https://openalex.org/A5063515207"
+    },
+    {
       "name": "David Mora‐Fonz",
       "institute": "Gordon College",
       "papersCount": 4,
       "openAlexId": "https://openalex.org/A5065717997"
-    },
-    {
-      "name": "Ivan P. Parkin",
-      "institute": "University College London",
-      "papersCount": 4,
-      "openAlexId": "https://openalex.org/A5059814020"
     },
     {
       "name": "Keith T. Butler",
@@ -152,12 +146,6 @@
       "institute": "University College London",
       "papersCount": 4,
       "openAlexId": "https://openalex.org/A5056443409"
-    },
-    {
-      "name": "Sanjayan Sathasivam",
-      "institute": "London Centre for Nanotechnology",
-      "papersCount": 4,
-      "openAlexId": "https://openalex.org/A5003682455"
     },
     {
       "name": "Stephen A. Shevlin",
@@ -202,6 +190,12 @@
       "openAlexId": "https://openalex.org/A5083163180"
     },
     {
+      "name": "Ivan P. Parkin",
+      "institute": "University College London",
+      "papersCount": 3,
+      "openAlexId": "https://openalex.org/A5059814020"
+    },
+    {
       "name": "M. J. Ashwin",
       "institute": "University of Warwick",
       "papersCount": 3,
@@ -224,6 +218,12 @@
       "institute": "University of Michigan",
       "papersCount": 3,
       "openAlexId": "https://openalex.org/A5025433894"
+    },
+    {
+      "name": "Sanjayan Sathasivam",
+      "institute": "London Centre for Nanotechnology",
+      "papersCount": 3,
+      "openAlexId": "https://openalex.org/A5003682455"
     },
     {
       "name": "T. Dannecker",
@@ -256,22 +256,10 @@
       "openAlexId": "https://openalex.org/A5075626166"
     },
     {
-      "name": "Andreas Kafizas",
-      "institute": "Imperial College London",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5032592689"
-    },
-    {
       "name": "C. F. Gorman",
       "institute": "University of Michigan",
       "papersCount": 2,
       "openAlexId": "https://openalex.org/A5080689893"
-    },
-    {
-      "name": "Carlos Sotelo-Vázquez",
-      "institute": "London Centre for Nanotechnology",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5040358699"
     },
     {
       "name": "Christopher S. Blackman",
@@ -281,7 +269,7 @@
     },
     {
       "name": "Claire J. Carmalt",
-      "institute": "University College London",
+      "institute": "The London College",
       "papersCount": 2,
       "openAlexId": "https://openalex.org/A5075897059"
     },
@@ -304,12 +292,6 @@
       "openAlexId": "https://openalex.org/A5070174488"
     },
     {
-      "name": "Jiang Wu",
-      "institute": "North China University of Technology",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5088188395"
-    },
-    {
       "name": "K. Durose",
       "institute": "University of Liverpool",
       "papersCount": 2,
@@ -320,12 +302,6 @@
       "institute": "University of Aveiro",
       "papersCount": 2,
       "openAlexId": "https://openalex.org/A5056657768"
-    },
-    {
-      "name": "Mahdi Alqahtani",
-      "institute": "King Abdulaziz City for Science and Technology",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5001144406"
     },
     {
       "name": "Mao Lin",
@@ -350,12 +326,6 @@
       "institute": "University College London",
       "papersCount": 2,
       "openAlexId": "https://openalex.org/A5141251891"
-    },
-    {
-      "name": "Sean P. Nair",
-      "institute": "Eastman Dental Hospital",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5029869964"
     },
     {
       "name": "Suela Kellici",
@@ -400,12 +370,6 @@
       "openAlexId": "https://openalex.org/A5038148537"
     },
     {
-      "name": "AbdullahM. Alotaibi",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5009785409"
-    },
-    {
       "name": "Adam Jackson",
       "institute": "University of Bath",
       "papersCount": 1,
@@ -434,6 +398,12 @@
       "institute": "Universidad de Zaragoza",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5068365698"
+    },
+    {
+      "name": "Andreas Kafizas",
+      "institute": "Imperial College London",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5032592689"
     },
     {
       "name": "Anna Maria Ferrari",
@@ -508,6 +478,12 @@
       "openAlexId": "https://openalex.org/A5017838680"
     },
     {
+      "name": "Carlos Sotelo-Vázquez",
+      "institute": "London Centre for Nanotechnology",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5040358699"
+    },
+    {
       "name": "Chang-Eun Kim",
       "institute": "Yonsei University",
       "papersCount": 1,
@@ -548,12 +524,6 @@
       "institute": "",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5044964570"
-    },
-    {
-      "name": "David Scanlon",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5101500006"
     },
     {
       "name": "Davinder S. Bhachu",
@@ -670,6 +640,12 @@
       "openAlexId": "https://openalex.org/A5113787253"
     },
     {
+      "name": "Jiang Wu",
+      "institute": "North China University of Technology",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5088188395"
+    },
+    {
       "name": "Jonathan Alaria",
       "institute": "University of Liverpool",
       "papersCount": 1,
@@ -734,6 +710,12 @@
       "institute": "University of Bath",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5039521103"
+    },
+    {
+      "name": "Mahdi Alqahtani",
+      "institute": "King Abdulaziz City for Science and Technology",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5001144406"
     },
     {
       "name": "Maiko Nishibori",
@@ -815,7 +797,7 @@
     },
     {
       "name": "Nicholas Chadwick",
-      "institute": "Bio Nano Consulting",
+      "institute": "The London College",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5032714194"
     },
@@ -902,6 +884,12 @@
       "institute": "Gordon College",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5089878084"
+    },
+    {
+      "name": "Sean P. Nair",
+      "institute": "Eastman Dental Hospital",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5029869964"
     },
     {
       "name": "Shijia Sun",
