@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T02:57:07.095Z",
+  "lastUpdated": "2026-10-01T03:37:00.597Z",
   "orcidId": "0000-0002-2537-5082",
   "publications": [
     {
@@ -204,10 +204,10 @@
         "Buckeridge, J.",
         "Nguyen, K. G.",
         "Heil, T.",
-        "Sajjad, M. T.",
+        "Sajjad, M. . T.",
         "Thomson, S. A. J.",
         "Rennie, A.",
-        "Morgan, D.",
+        "Morgan, D. J.",
         "Power, N. P.",
         "Nicolae, S. A.",
         "Titirici, M.",
@@ -253,7 +253,7 @@
         "Camino, B.",
         "Buckeridge, J.",
         "Warburton, P. A.",
-        "Kendon, V.",
+        "Kendon, V. M.",
         "Woodley, S. M."
       ],
       "volume": "133",
@@ -292,7 +292,7 @@
       "authors": [
         "Zhang, X.",
         "Zhu, L.",
-        "Hou, Q.",
+        "Hou, Q. L.",
         "Guan, J.",
         "Lü, Y.",
         "Keal, T. W.",
@@ -334,7 +334,7 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fchem.2021.780935/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Chemistry&id=780935",
       "putCode": 106029560,
       "authors": [
-        "Hou, Q.",
+        "Hou, Q. L.",
         "Buckeridge, J.",
         "Walsh, A.",
         "Xie, Z.",
@@ -368,7 +368,7 @@
         "Wu, J.",
         "Nair, S. P.",
         "Scanlon, D. O.",
-        "Parkin, I. P."
+        "Parkin, I. . P."
       ],
       "volume": "12",
       "issue": "13",
@@ -408,10 +408,10 @@
       "authors": [
         "Williamson, B. A. D.",
         "Buckeridge, J.",
-        "Chadwick, N.",
+        "Chadwick, N. P.",
         "Sathasivam, S.",
         "Carmalt, C. J.",
-        "Parkin, I. P.",
+        "Parkin, I. . P.",
         "Scanlon, D. O."
       ],
       "volume": "31",
@@ -543,7 +543,7 @@
       "url": "https://doi.org/10.1039/C8TC04760J",
       "putCode": 50259283,
       "authors": [
-        "Hou, Q.",
+        "Hou, Q. L.",
         "Buckeridge, J.",
         "Lazauskas, T.",
         "Mora‐Fonz, D.",
@@ -612,8 +612,8 @@
         "Mora‐Fonz, D.",
         "Blüm, V.",
         "Phaahla, T. M.",
-        "Chauke, H.",
-        "Ngoepe, P.",
+        "Chauke, H. R.",
+        "Ngoepe, P. E.",
         "Woodley, S. M."
       ],
       "volume": "20",
@@ -1185,7 +1185,7 @@
         "Catlow, C. R. A.",
         "Powell, M. J.",
         "Palgrave, R. G.",
-        "Parkin, I. P.",
+        "Parkin, I. . P.",
         "Watson, G. W.",
         "Keal, T. W.",
         "Sherwood, P.",
@@ -1332,7 +1332,7 @@
       "putCode": 21751588,
       "authors": [
         "Dannecker, T.",
-        "Jin, Y.",
+        "Jin, Y. F.",
         "He, C.",
         "Gorman, C. F.",
         "Buckeridge, J.",
@@ -1355,7 +1355,7 @@
       "putCode": 21751589,
       "authors": [
         "Buckeridge, J.",
-        "O'Halloran, S.",
+        "O’Halloran, S. M.",
         "Fahy, S."
       ],
       "volume": "150",
