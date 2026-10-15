@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-01T03:37:00.597Z",
+  "lastUpdated": "2026-10-15T02:46:46.397Z",
   "orcidId": "0000-0002-2537-5082",
   "publications": [
+    {
+      "title": "Cation Vacancies with and without O–O Dimerization: Identifying Reconstructed Defect Configurations in Metal Oxides",
+      "year": 2026,
+      "journal": "Journal of the American Chemical Society",
+      "type": "journal-article",
+      "doi": "10.1021/jacs.6c15378",
+      "url": "https://doi.org/10.1021/jacs.6c15378",
+      "putCode": 229065567,
+      "authors": [
+        "Liu, T.",
+        "Zhang, X.",
+        "Nasir, J. A.",
+        "Hou, Q. L.",
+        "Morgan, L.",
+        "Guan, J.",
+        "Durrant, T. R.",
+        "Lü, Y.",
+        "Keal, T. W.",
+        "Buckeridge, J.",
+        "Woodley, S. M.",
+        "Goedecker, S.",
+        "Catlow, C. R. A.",
+        "Sokol, A. A."
+      ],
+      "volume": null,
+      "issue": null,
+      "pages": null
+    },
     {
       "title": "ComProScanner: a multi-agent based framework for composition-property structured data extraction from scientific literature",
       "year": 2026,
@@ -722,7 +750,7 @@
       ],
       "volume": null,
       "issue": null,
-      "pages": null
+      "pages": "647-680"
     },
     {
       "title": "Screening Divalent Metals for A-and B-Site Dopants in LaFeO3",
@@ -879,7 +907,7 @@
     {
       "title": "One-Dimensional Nanosystems",
       "year": 2016,
-      "journal": "",
+      "journal": "CRC Press eBooks",
       "type": "book-chapter",
       "doi": "10.1201/b19528",
       "url": "https://www.taylorfrancis.com/books/e/9780429194184/chapters/10.1201/b19528-8",
