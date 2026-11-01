@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T02:46:46.397Z",
+  "lastUpdated": "2026-11-01T03:49:14.388Z",
   "orcidId": "0000-0002-2537-5082",
   "publications": [
     {
@@ -14,7 +14,7 @@
         "Liu, T.",
         "Zhang, X.",
         "Nasir, J. A.",
-        "Hou, Q. L.",
+        "Hou, Q.",
         "Morgan, L.",
         "Guan, J.",
         "Durrant, T. R.",
@@ -26,9 +26,9 @@
         "Catlow, C. R. A.",
         "Sokol, A. A."
       ],
-      "volume": null,
-      "issue": null,
-      "pages": null
+      "volume": "148",
+      "issue": "41",
+      "pages": "44973-44983"
     },
     {
       "title": "ComProScanner: a multi-agent based framework for composition-property structured data extraction from scientific literature",
@@ -151,13 +151,11 @@
       "putCode": 162871774,
       "authors": [
         "Zhang, X.",
-        "Zhang, X.",
         "Blackman, C. S.",
         "Palgrave, R. G.",
         "Ashraf, S.",
         "Dey, A.",
         "Blunt, M. O.",
-        "Zhang, X.",
         "Zhang, X.",
         "Liu, T.",
         "Sun, S.",
@@ -320,7 +318,7 @@
       "authors": [
         "Zhang, X.",
         "Zhu, L.",
-        "Hou, Q. L.",
+        "Hou, Q.",
         "Guan, J.",
         "Lü, Y.",
         "Keal, T. W.",
@@ -362,7 +360,7 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fchem.2021.780935/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Chemistry&id=780935",
       "putCode": 106029560,
       "authors": [
-        "Hou, Q. L.",
+        "Hou, Q.",
         "Buckeridge, J.",
         "Walsh, A.",
         "Xie, Z.",
@@ -571,7 +569,7 @@
       "url": "https://doi.org/10.1039/C8TC04760J",
       "putCode": 50259283,
       "authors": [
-        "Hou, Q. L.",
+        "Hou, Q.",
         "Buckeridge, J.",
         "Lazauskas, T.",
         "Mora‐Fonz, D.",
