@@ -1,36 +1,36 @@
 {
-  "lastUpdated": "2026-11-01T05:01:52.432Z",
+  "lastUpdated": "2026-11-15T05:30:41.036Z",
   "orcidId": "0000-0002-2537-5082",
-  "totalWorks": 92,
+  "totalWorks": 82,
   "collaborators": [
     {
       "name": "C. Richard A. Catlow",
       "institute": "University College London",
-      "papersCount": 52,
+      "papersCount": 46,
       "openAlexId": "https://openalex.org/A5042572313"
     },
     {
       "name": "Alexey A. Sokol",
       "institute": "University College London",
-      "papersCount": 45,
+      "papersCount": 40,
       "openAlexId": "https://openalex.org/A5017393061"
     },
     {
       "name": "David O. Scanlon",
       "institute": "University College London",
-      "papersCount": 34,
+      "papersCount": 31,
       "openAlexId": "https://openalex.org/A5017503270"
     },
     {
       "name": "Scott M. Woodley",
       "institute": "University College London",
-      "papersCount": 26,
+      "papersCount": 24,
       "openAlexId": "https://openalex.org/A5090515130"
     },
     {
       "name": "Aron Walsh",
       "institute": "University of Bath",
-      "papersCount": 23,
+      "papersCount": 21,
       "openAlexId": "https://openalex.org/A5035797693"
     },
     {
@@ -52,28 +52,16 @@
       "openAlexId": "https://openalex.org/A5075439339"
     },
     {
-      "name": "Andrew James Logsdail",
-      "institute": "University College London",
-      "papersCount": 9,
-      "openAlexId": "https://openalex.org/A5064011663"
-    },
-    {
       "name": "Jingcheng Guan",
       "institute": "University College London",
       "papersCount": 9,
       "openAlexId": "https://openalex.org/A5034641351"
     },
     {
-      "name": "Matthew R. Farrow",
+      "name": "Andrew James Logsdail",
       "institute": "University College London",
-      "papersCount": 9,
-      "openAlexId": "https://openalex.org/A5073933386"
-    },
-    {
-      "name": "Chiara Gattinoni",
-      "institute": "King's College London",
       "papersCount": 7,
-      "openAlexId": "https://openalex.org/A5005638170"
+      "openAlexId": "https://openalex.org/A5064011663"
     },
     {
       "name": "Lei Zhu",
@@ -100,10 +88,16 @@
       "openAlexId": "https://openalex.org/A5023620551"
     },
     {
-      "name": "Bruno Camino",
+      "name": "Chiara Gattinoni",
+      "institute": "King's College London",
+      "papersCount": 6,
+      "openAlexId": "https://openalex.org/A5005638170"
+    },
+    {
+      "name": "Matthew R. Farrow",
       "institute": "University College London",
       "papersCount": 6,
-      "openAlexId": "https://openalex.org/A5001142744"
+      "openAlexId": "https://openalex.org/A5073933386"
     },
     {
       "name": "Qing Hou",
@@ -120,20 +114,8 @@
     {
       "name": "Aritra Roy",
       "institute": "London South Bank University",
-      "papersCount": 5,
+      "papersCount": 4,
       "openAlexId": "https://openalex.org/A5102839920"
-    },
-    {
-      "name": "David Mora‐Fonz",
-      "institute": "University College London",
-      "papersCount": 5,
-      "openAlexId": "https://openalex.org/A5065717997"
-    },
-    {
-      "name": "Enrico Grisan",
-      "institute": "London South Bank University",
-      "papersCount": 5,
-      "openAlexId": "https://openalex.org/A5022937331"
     },
     {
       "name": "Benjamin A. D. Williamson",
@@ -142,16 +124,28 @@
       "openAlexId": "https://openalex.org/A5063515207"
     },
     {
+      "name": "Bruno Camino",
+      "institute": "University College London",
+      "papersCount": 4,
+      "openAlexId": "https://openalex.org/A5001142744"
+    },
+    {
+      "name": "David Mora‐Fonz",
+      "institute": "University College London",
+      "papersCount": 4,
+      "openAlexId": "https://openalex.org/A5065717997"
+    },
+    {
+      "name": "Enrico Grisan",
+      "institute": "London South Bank University",
+      "papersCount": 4,
+      "openAlexId": "https://openalex.org/A5022937331"
+    },
+    {
       "name": "Keith T. Butler",
       "institute": "University of Bath",
       "papersCount": 4,
       "openAlexId": "https://openalex.org/A5039665389"
-    },
-    {
-      "name": "Paul A. Warburton",
-      "institute": "London Centre for Nanotechnology",
-      "papersCount": 4,
-      "openAlexId": "https://openalex.org/A5014450167"
     },
     {
       "name": "Robert G. Palgrave",
@@ -164,12 +158,6 @@
       "institute": "University College London",
       "papersCount": 4,
       "openAlexId": "https://openalex.org/A5010058833"
-    },
-    {
-      "name": "Tomas Lazauskas",
-      "institute": "University College London",
-      "papersCount": 4,
-      "openAlexId": "https://openalex.org/A5072875967"
     },
     {
       "name": "Çağlıyan Kurdak",
@@ -196,7 +184,7 @@
       "openAlexId": "https://openalex.org/A5083163180"
     },
     {
-      "name": "Ivan  Paul Parkin",
+      "name": "Ivan P. Parkin",
       "institute": "University College London",
       "papersCount": 3,
       "openAlexId": "https://openalex.org/A5059814020"
@@ -214,10 +202,10 @@
       "openAlexId": "https://openalex.org/A5031521283"
     },
     {
-      "name": "O Scanlon David",
-      "institute": "",
+      "name": "Paul A. Warburton",
+      "institute": "London Centre for Nanotechnology",
       "papersCount": 3,
-      "openAlexId": "https://openalex.org/A5113377193"
+      "openAlexId": "https://openalex.org/A5014450167"
     },
     {
       "name": "R. S. Goldman",
@@ -238,8 +226,14 @@
       "openAlexId": "https://openalex.org/A5036145683"
     },
     {
+      "name": "Tomas Lazauskas",
+      "institute": "University College London",
+      "papersCount": 3,
+      "openAlexId": "https://openalex.org/A5072875967"
+    },
+    {
       "name": "Zijuan Xie",
-      "institute": "Harbin Institute of Technology",
+      "institute": "Southern University of Science and Technology",
       "papersCount": 3,
       "openAlexId": "https://openalex.org/A5034441438"
     },
@@ -304,12 +298,6 @@
       "openAlexId": "https://openalex.org/A5041888871"
     },
     {
-      "name": "M Woodley Scott",
-      "institute": "",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5032214036"
-    },
-    {
       "name": "M. R. Correia",
       "institute": "University of Aveiro",
       "papersCount": 2,
@@ -328,12 +316,6 @@
       "openAlexId": "https://openalex.org/A5053101625"
     },
     {
-      "name": "Nicholas Chancellor",
-      "institute": "Newcastle University",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5055194248"
-    },
-    {
       "name": "Nicole Fleck",
       "institute": "University of Liverpool",
       "papersCount": 2,
@@ -344,12 +326,6 @@
       "institute": "London South Bank University",
       "papersCount": 2,
       "openAlexId": "https://openalex.org/A5007394105"
-    },
-    {
-      "name": "W. W. Winnie Leung",
-      "institute": "University College London",
-      "papersCount": 2,
-      "openAlexId": "https://openalex.org/A5108248400"
     },
     {
       "name": "Wojciech M. Linhart",
@@ -394,12 +370,6 @@
       "openAlexId": "https://openalex.org/A5068365698"
     },
     {
-      "name": "AM Ganose",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5145667839"
-    },
-    {
       "name": "Amanuel M. Teweldeberhan",
       "institute": "Dalhousie University",
       "papersCount": 1,
@@ -431,15 +401,15 @@
     },
     {
       "name": "Aritra Roy",
-      "institute": "University of Kent",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5129355884"
-    },
-    {
-      "name": "Aritra Roy",
       "institute": "London South Bank University",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5137646023"
+    },
+    {
+      "name": "Aritra Roy",
+      "institute": "University of Kent",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5129355884"
     },
     {
       "name": "Atsushi Togo",
@@ -452,12 +422,6 @@
       "institute": "University College London",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5074215000"
-    },
-    {
-      "name": "BAD Williamson",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5152671643"
     },
     {
       "name": "Bahattin Bademci",
@@ -508,7 +472,7 @@
       "openAlexId": "https://openalex.org/A5005828580"
     },
     {
-      "name": "David George Lidzey",
+      "name": "David G. Lidzey",
       "institute": "University of Sheffield",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5012030681"
@@ -536,12 +500,6 @@
       "institute": "University of Sheffield",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5041874760"
-    },
-    {
-      "name": "Ferrari AM",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5124249707"
     },
     {
       "name": "G. Jones",
@@ -709,12 +667,6 @@
       "name": "Mao Lin",
       "institute": "Amazon (United States)",
       "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5121362630"
-    },
-    {
-      "name": "Mao Lin",
-      "institute": "Amazon (United States)",
-      "papersCount": 1,
       "openAlexId": "https://openalex.org/A5138115711"
     },
     {
@@ -778,6 +730,12 @@
       "openAlexId": "https://openalex.org/A5086622122"
     },
     {
+      "name": "Nicholas Chancellor",
+      "institute": "Newcastle University",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5055194248"
+    },
+    {
       "name": "Nicholas P. Chadwick",
       "institute": "Bio Nano Consulting",
       "papersCount": 1,
@@ -788,6 +746,12 @@
       "institute": "The Open University",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5048261445"
+    },
+    {
+      "name": "O Scanlon David",
+      "institute": "",
+      "papersCount": 1,
+      "openAlexId": "https://openalex.org/A5113377193"
     },
     {
       "name": "Osamu Terasaki",
@@ -818,18 +782,6 @@
       "institute": "University of Limpopo",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5046167123"
-    },
-    {
-      "name": "R Farrow Matthew",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5015638845"
-    },
-    {
-      "name": "R.G. Palgrave",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5126878868"
     },
     {
       "name": "Rachel Crespo‐Otero",
@@ -878,12 +830,6 @@
       "institute": "University College London",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5029869964"
-    },
-    {
-      "name": "Sherwood Paul",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5058065364"
     },
     {
       "name": "Shijia Sun",
@@ -1036,10 +982,10 @@
       "openAlexId": "https://openalex.org/A5050792689"
     },
     {
-      "name": "W Keal Thomas",
-      "institute": "",
+      "name": "W. W. Winnie Leung",
+      "institute": "University College London",
       "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5022212810"
+      "openAlexId": "https://openalex.org/A5108248400"
     },
     {
       "name": "W.S.S. Jee",
@@ -1052,12 +998,6 @@
       "institute": "Sandia National Laboratories California",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5026547934"
-    },
-    {
-      "name": "Xie Zijuan",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5027606288"
     },
     {
       "name": "Xu Zhang",
@@ -1100,12 +1040,6 @@
       "institute": "Harbin Institute of Technology",
       "papersCount": 1,
       "openAlexId": "https://openalex.org/A5012290941"
-    },
-    {
-      "name": "Yu Sui",
-      "institute": "",
-      "papersCount": 1,
-      "openAlexId": "https://openalex.org/A5035339024"
     },
     {
       "name": "Yuanyuan Jin",
